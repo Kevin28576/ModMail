@@ -1,0 +1,37 @@
+{
+  "name": "discord-activity-modmail-bot",
+  "version": "6.7.8",
+  "description": "Modmail 是一個在功能和用途上都類似於 Reddit 的 Modmail。它作為共享收件箱，供群組工作人員以無縫方式與用戶交流。",
+  "homepage": "https://github.com/Discord-Activity/Modmail",
+  "url": "https://github.com/Discord-Activity/Modmail/issues",
+  "email": "support@cloudxact.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modmail",
+    "discord",
+    "discord-activity",
+    "modmail",
+    "modmail-bot",
+    "discord-bot",
+    "bot",
+    "js",
+    "javascript",
+    "Kevin",
+    "discord-activity-modmail-bot"
+  ],
+  "author": "Krick#9685",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "better-sqlite3": "^7.6.2",
+    "colors": "^1.4.0",
+    "discord.js": "^14.3.0",
+    "enmap": "^5.9.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.6",
+    "quick.db": "^9.0.6"
+  }
+}
