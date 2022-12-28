@@ -5,24 +5,24 @@
 
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>此GitHub資料:</b></a><br>
-    <img src="https://img.shields.io/github/release/Discord-Activity/Modmail?label=Release&logo=files">
-    <img src="https://img.shields.io/github/forks/Discord-Activity/Modmail?label=Forks&color=lime&logo=githubactions&logoColor=lime">
-    <img src="https://img.shields.io/github/stars/Discord-Activity/Modmail?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
-    <img src="https://img.shields.io/github/license/Discord-Activity/Modmail?label=License&color=808080&logo=gitbook&logoColor=808080">
-    <img src="https://img.shields.io/github/issues/Discord-Activity/Modmail?label=Issues&color=red&logo=ifixit&logoColor=red">
+    <img src="https://img.shields.io/github/release/Kevin28576/ModeMail?label=Release&logo=files">
+    <img src="https://img.shields.io/github/forks/Kevin28576/ModeMail?label=Forks&color=lime&logo=githubactions&logoColor=lime">
+    <img src="https://img.shields.io/github/stars/Kevin28576/ModeMail?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
+    <img src="https://img.shields.io/github/license/Kevin28576/ModeMail?label=License&color=808080&logo=gitbook&logoColor=808080">
+    <img src="https://img.shields.io/github/issues/Kevin28576/ModeMail?label=Issues&color=red&logo=ifixit&logoColor=red">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord支持群組:</b></a><br>
     <a href="https://discord.gg/NSd8f6mkqH">
-        <img src="https://img.shields.io/discord/993487967375069204.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
+        <img src="https://img.shields.io/discord/883760822143320065.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     </a>
     <a style="font-size:15px;font-family:verdana"><b>開發語言:</b></a><br>
     <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Fork/Download For:</b></a><br>
-    <a href="https://replit.com/github/Discord-Activity/Modmail">
+    <a href="https://replit.com/github/Kevin28576/ModeMail">
         <img src="https://img.shields.io/badge/Repl.it-100000?label=Fork%20on:&style=flat&logo=replit&color=808080&logoColor=white">
     </a>
-    <a href="https://github.com/Discord-Activity/Modmail/fork">
+    <a href="https://github.com/Kevin28576/ModeMail/fork">
         <img src="https://img.shields.io/badge/GitHub-100000?label=Fork%20on:&style=flat&logo=github&color=808080">
     </a>
 </p>
