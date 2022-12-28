@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.ibb.co/L6zPTxS/Discord-Modmail-Bot.png" height="300" style="float: left; margin: 0px 10px 15px 1px;"/> <a style="font-size: 20px"> <a style="font-size: 30px"><br>
+	<img src="https://i.ibb.co/9YRrKhf/Discord-Modmail-Bot.png" height="300" style="float: left; margin: 0px 10px 15px 1px;"/> <a style="font-size: 20px"> <a style="font-size: 30px"><br>
 	<img src="https://img.shields.io/github/v/release/discordjs/discord.js?label=Discord.js Version:&logo=npm&style=for-the-badge">
 </p>
 
